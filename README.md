@@ -1,4 +1,4 @@
-# simple_math++
+# Simple Math++
 A simple math lib written in C++
 
 Usage:
