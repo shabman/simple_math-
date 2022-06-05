@@ -1,7 +1,3 @@
-//
-// Created by Mustafa Malik on 05/06/2022.
-//
-
 #include <cstdio>
 #include "../calc/simple_math.h"
 
