@@ -1,7 +1,3 @@
-//
-// Created by Mustafa Malik on 05/06/2022.
-//
-
 #ifndef PRACTICAL_SM_DEF_H
 #define PRACTICAL_SM_DEF_H
 
