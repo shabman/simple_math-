@@ -1,7 +1,3 @@
-//
-// Created by Mustafa Malik on 05/06/2022.
-//
-
 #ifndef PRACTICAL_MATH_MATRIX_HPP
 #define PRACTICAL_MATH_MATRIX_HPP
 
