@@ -1,7 +1,3 @@
-//
-// Created by Mustafa Malik on 06/06/2022.
-//
-
 #ifndef PRACTICAL_MATH_INDICES_BOUNDS_H
 #define PRACTICAL_MATH_INDICES_BOUNDS_H
 
